@@ -81,3 +81,30 @@
 body {
     background-color: white;
 }
+
+h1 {
+    font-size: 55px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+}
+
+.header-icon {
+    width: 50px;
+    height: 50px;
+}
+
+.header-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
