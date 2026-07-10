@@ -51,7 +51,7 @@
 .project-cards {
     display: flex;
     justify-content: center;
-    gap: clamp(1px, 5px, 10px);
+    gap: clamp(1px, 8px, 10px);
 }
 
 .project-card button {
